@@ -124,7 +124,4 @@ func main() {
 			}
 		}
 	}
-
-	//print out the ending message
-
 }
